@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1583264072 source:h:\programowanie\kalkulator v2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<tchar.h>
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
+1583264072 source:e:\programowanie\kalkulator v2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<tchar.h>
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
+1583837428 source:e:\programowanie\kalkulator_v2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<tchar.h>
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
